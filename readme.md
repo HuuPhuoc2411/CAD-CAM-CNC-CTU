@@ -26,6 +26,9 @@ Link tải phần mềm tại đây [link](https://drive.google.com/drive/folder
   <picture>
   <img src="a3.png" alt="..." width="550" />
 </picture>
+</br>
+
+Liên hệ hỗ trợ qua zalo: 0559092549 (Hữu Phước)
 
 
 
