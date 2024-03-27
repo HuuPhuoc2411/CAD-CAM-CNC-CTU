@@ -13,12 +13,20 @@ Link tải phần mềm tại đây [link](https://drive.google.com/drive/folder
   <img src="a1.png" alt="..." width="550" />
 </picture>
 </br>
- 2. Dẫn đến đường dẫn thư mục đã giải nén ban đầu để mỏ WINDXP ảo lên
-   </br>
+ 2. Dẫn đến đường dẫn thư mục đã giải nén ban đầu để mở WINDXP ảo lên
+  </br>
+</br>
   <picture>
   <img src="a2.png" alt="..." width="550" />
 </picture>
-  
+  </br>
+3. Xong rồi! khi mở win lên được thì nó đã có đầy đủ các phần mềm cần thiết rồi
+</br>
+</br>
+  <picture>
+  <img src="a3.png" alt="..." width="550" />
+</picture>
+
 
 
   
