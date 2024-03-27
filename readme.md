@@ -5,7 +5,22 @@ Link tải phần mềm tại đây [link](https://drive.google.com/drive/folder
 - Bước 1: Giải nén tệp tin đã chọn
 - Bước 2: Cài đặt phần mềm VMware để cài đặt WINDXP ảo (chạy file VMware-workstation-full-17.5.0-22583795 (1).exe) khi cài đặt nhớ chú ý bỏ chọn phần kiểm tra update để tránh bị update.
 - Bước 3: Khi cài xong VMware thì sẽ được yêu cầu nhập Key. Bạn cần mở file keyWM17.txt và copy một trong các key trong file để chạy tiếp
-- Bước 4: Sắp xông rồi nha! bạn mở phần mềm VMware và làm theo các bước dưới đây
+- Bước 4: Sắp xong rồi nha! bạn mở phần mềm VMware và làm theo các bước dưới đây
+  </br>
+ 1. Chọn vào Open a Virtual Machine
+  </br>
+  <picture>
+  <img src="a1.png" alt="..." width="550" />
+</picture>
+</br>
+ 2. Dẫn đến đường dẫn thư mục đã giải nén ban đầu để mỏ WINDXP ảo lên
+   </br>
+  <picture>
+  <img src="a2.png" alt="..." width="550" />
+</picture>
+  
+
+
   
 
 
